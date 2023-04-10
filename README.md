@@ -1,0 +1,2 @@
+# about-gurumustuk
+class exercrise
