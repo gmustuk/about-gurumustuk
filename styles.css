@@ -1,6 +1,9 @@
-h1 {color: darkred
+h1 {
+    font-family: Calibri, Arial, sans-serif;
 }
-h2 {color: red}
+h2 {color: red;
+    font-family: Calibri,Arial,sans-serif;
+}
 
 p {
     font-size: 20px;
