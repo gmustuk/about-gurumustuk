@@ -3,5 +3,14 @@ h1 {color: darkred
 h2 {color: red}
 
 p {
-    font-size: 18px;
+    font-size: 20px;
 }
+
+.profile {
+    height: auto;
+    width: auto;
+    max-width: 500px;
+   }
+
+div.intro {width: 500px;
+align-content: center}
