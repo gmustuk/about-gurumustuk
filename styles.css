@@ -19,7 +19,7 @@ h3 {
     height: auto;
     width: auto;
     max-width: 500px;
-    image-orientation: flip;
+    image-orientation: inherit;
    }
 
 div.intro {width: 500px;
