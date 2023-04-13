@@ -16,9 +16,6 @@ h3 {
 }
 
 .profile {
-    height: auto;
-    width: auto;
-    max-width: 500px;
     image-orientation: inherit;
    }
 
