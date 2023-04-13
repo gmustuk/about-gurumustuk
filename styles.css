@@ -9,6 +9,8 @@ h2 { }
 p {
     font-size: 20px;
     color: navy;
+    border: 1rem solid;
+    border-color: black;
 }
 
 h3 {
@@ -26,7 +28,5 @@ align-content: center}
 
 body {
     background-color: lightslategray;
-    border: 1rem solid;
-    border-color: black;
 }
 
