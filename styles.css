@@ -1,9 +1,18 @@
 h1 {
+    text-align: center;
+    color: blue;
+    font-family: "Al Nile";
+
 }
 h2 { }
 
 p {
     font-size: 20px;
+    color: darkblue;
+}
+
+h3 {
+    color: darkred;
 }
 
 .profile {
