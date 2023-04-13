@@ -16,7 +16,10 @@ h3 {
 }
 
 .profile {
-    image-orientation: inherit;
+    height: auto;
+    width: auto;
+    max-width: 500px;
+    imagr-orientation: landscape;
    }
 
 div.intro {width: 500px;
